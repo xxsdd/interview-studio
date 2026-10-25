@@ -1,0 +1,16 @@
+data/
+runtime.json
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/
+*.log
+*.sqlite*
+*.db
+*.pid
+.DS_Store
+Thumbs.db

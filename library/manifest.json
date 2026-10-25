@@ -1,0 +1,1856 @@
+[
+  {
+    "book": "01",
+    "group": "",
+    "title": "第一章 大模型简介",
+    "file": "01 入门与知识库/01 第一章 大模型简介.md"
+  },
+  {
+    "book": "01",
+    "group": "",
+    "title": "第二章 使用模型 API 开发应用",
+    "file": "01 入门与知识库/02 第二章 使用模型 API 开发应用.md"
+  },
+  {
+    "book": "01",
+    "group": "",
+    "title": "第三章 搭建知识库",
+    "file": "01 入门与知识库/03 第三章 搭建知识库.md"
+  },
+  {
+    "book": "01",
+    "group": "附录 C3 配套说明",
+    "title": "Embedding封装讲解",
+    "file": "01 入门与知识库/附录 C3 配套说明/01 Embedding封装讲解.md"
+  },
+  {
+    "book": "01",
+    "group": "",
+    "title": "第四章 构建 RAG 应用",
+    "file": "01 入门与知识库/04 第四章 构建 RAG 应用.md"
+  },
+  {
+    "book": "01",
+    "group": "附录 C4 配套说明",
+    "title": "附一 基于 LangChain 自定义 LLM",
+    "file": "01 入门与知识库/附录 C4 配套说明/01 附一 基于 LangChain 自定义 LLM.md"
+  },
+  {
+    "book": "01",
+    "group": "",
+    "title": "第五章 系统评估与优化",
+    "file": "01 入门与知识库/05 第五章 系统评估与优化.md"
+  },
+  {
+    "book": "01",
+    "group": "第六章 应用案例",
+    "title": "个人知识库助手项目",
+    "file": "01 入门与知识库/第六章 应用案例/01 个人知识库助手项目.md"
+  },
+  {
+    "book": "01",
+    "group": "第六章 应用案例",
+    "title": "LLM应用案例：人情世故大模型系统-天机",
+    "file": "01 入门与知识库/第六章 应用案例/02 LLM应用案例：人情世故大模型系统-天机.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "1.多类型文档处理",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/01 1.多类型文档处理.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "2.分块优化",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/02 2.分块优化.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "3.向量模型及其选择",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/03 3.向量模型及其选择.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "4.微调向量模型",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/04 4.微调向量模型.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "附分块方法评估",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/05 附分块方法评估.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "附分块长度评估",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/06 附分块长度评估.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/01 数据处理",
+    "title": "附损失函数浅析",
+    "file": "01 入门与知识库/第七章 高级 RAG/01 数据处理/07 附损失函数浅析.md"
+  },
+  {
+    "book": "01",
+    "group": "第七章 高级 RAG/02 检索优化",
+    "title": "2. 对齐 query 和文档",
+    "file": "01 入门与知识库/第七章 高级 RAG/02 检索优化/01 2. 对齐 query 和文档.md"
+  },
+  {
+    "book": "02",
+    "group": "01 解锁 RAG",
+    "title": "第一节 RAG 简介",
+    "file": "02 RAG 专项教程/01 解锁 RAG/01 第一节 RAG 简介.md"
+  },
+  {
+    "book": "02",
+    "group": "01 解锁 RAG",
+    "title": "第二节 准备工作",
+    "file": "02 RAG 专项教程/01 解锁 RAG/02 第二节 准备工作.md"
+  },
+  {
+    "book": "02",
+    "group": "01 解锁 RAG",
+    "title": "第三节 四步构建RAG",
+    "file": "02 RAG 专项教程/01 解锁 RAG/03 第三节 四步构建RAG.md"
+  },
+  {
+    "book": "02",
+    "group": "01 解锁 RAG",
+    "title": "附：Python虚拟环境部署方案补充",
+    "file": "02 RAG 专项教程/01 解锁 RAG/04 附：Python虚拟环境部署方案补充.md"
+  },
+  {
+    "book": "02",
+    "group": "02 数据准备",
+    "title": "第一节 数据加载",
+    "file": "02 RAG 专项教程/02 数据准备/01 第一节 数据加载.md"
+  },
+  {
+    "book": "02",
+    "group": "02 数据准备",
+    "title": "第二节 文本分块",
+    "file": "02 RAG 专项教程/02 数据准备/02 第二节 文本分块.md"
+  },
+  {
+    "book": "02",
+    "group": "03 索引构建",
+    "title": "第一节 向量嵌入",
+    "file": "02 RAG 专项教程/03 索引构建/01 第一节 向量嵌入.md"
+  },
+  {
+    "book": "02",
+    "group": "03 索引构建",
+    "title": "第二节 多模态嵌入",
+    "file": "02 RAG 专项教程/03 索引构建/02 第二节 多模态嵌入.md"
+  },
+  {
+    "book": "02",
+    "group": "03 索引构建",
+    "title": "第三节 向量数据库",
+    "file": "02 RAG 专项教程/03 索引构建/03 第三节 向量数据库.md"
+  },
+  {
+    "book": "02",
+    "group": "03 索引构建",
+    "title": "第四节 Milvus介绍及多模态检索实践",
+    "file": "02 RAG 专项教程/03 索引构建/04 第四节 Milvus介绍及多模态检索实践.md"
+  },
+  {
+    "book": "02",
+    "group": "03 索引构建",
+    "title": "第五节 索引优化",
+    "file": "02 RAG 专项教程/03 索引构建/05 第五节 索引优化.md"
+  },
+  {
+    "book": "02",
+    "group": "04 检索优化",
+    "title": "第一节 混合检索",
+    "file": "02 RAG 专项教程/04 检索优化/01 第一节 混合检索.md"
+  },
+  {
+    "book": "02",
+    "group": "04 检索优化",
+    "title": "第二节 查询构建",
+    "file": "02 RAG 专项教程/04 检索优化/02 第二节 查询构建.md"
+  },
+  {
+    "book": "02",
+    "group": "04 检索优化",
+    "title": "第三节 文本到SQL",
+    "file": "02 RAG 专项教程/04 检索优化/03 第三节 文本到SQL.md"
+  },
+  {
+    "book": "02",
+    "group": "04 检索优化",
+    "title": "第四节 查询重构与分发",
+    "file": "02 RAG 专项教程/04 检索优化/04 第四节 查询重构与分发.md"
+  },
+  {
+    "book": "02",
+    "group": "04 检索优化",
+    "title": "第五节 检索进阶",
+    "file": "02 RAG 专项教程/04 检索优化/05 第五节 检索进阶.md"
+  },
+  {
+    "book": "02",
+    "group": "05 生成集成",
+    "title": "第一节 格式化生成",
+    "file": "02 RAG 专项教程/05 生成集成/01 第一节 格式化生成.md"
+  },
+  {
+    "book": "02",
+    "group": "06 RAG 系统评估",
+    "title": "第一节 评估介绍",
+    "file": "02 RAG 专项教程/06 RAG 系统评估/01 第一节 评估介绍.md"
+  },
+  {
+    "book": "02",
+    "group": "06 RAG 系统评估",
+    "title": "第二节 评估常用工具",
+    "file": "02 RAG 专项教程/06 RAG 系统评估/02 第二节 评估常用工具.md"
+  },
+  {
+    "book": "02",
+    "group": "07 高级 RAG 架构",
+    "title": "第一节 基于知识图谱的RAG",
+    "file": "02 RAG 专项教程/07 高级 RAG 架构/01 第一节 基于知识图谱的RAG.md"
+  },
+  {
+    "book": "02",
+    "group": "07 高级 RAG 架构",
+    "title": "第二节 Agentic RAG：让 RAG 具备自主决策能力",
+    "file": "02 RAG 专项教程/07 高级 RAG 架构/02 第二节 Agentic RAG：让 RAG 具备自主决策能力.md"
+  },
+  {
+    "book": "02",
+    "group": "08 项目实战：基础版",
+    "title": "第一节 环境配置与项目架构",
+    "file": "02 RAG 专项教程/08 项目实战：基础版/01 第一节 环境配置与项目架构.md"
+  },
+  {
+    "book": "02",
+    "group": "08 项目实战：基础版",
+    "title": "第二节 数据准备模块实现",
+    "file": "02 RAG 专项教程/08 项目实战：基础版/02 第二节 数据准备模块实现.md"
+  },
+  {
+    "book": "02",
+    "group": "08 项目实战：基础版",
+    "title": "第三节 索引构建与检索优化",
+    "file": "02 RAG 专项教程/08 项目实战：基础版/03 第三节 索引构建与检索优化.md"
+  },
+  {
+    "book": "02",
+    "group": "08 项目实战：基础版",
+    "title": "第四节 生成集成与系统整合",
+    "file": "02 RAG 专项教程/08 项目实战：基础版/04 第四节 生成集成与系统整合.md"
+  },
+  {
+    "book": "02",
+    "group": "09 项目实战：优化版",
+    "title": "第一节 图RAG系统架构与环境配置",
+    "file": "02 RAG 专项教程/09 项目实战：优化版/01 第一节 图RAG系统架构与环境配置.md"
+  },
+  {
+    "book": "02",
+    "group": "09 项目实战：优化版",
+    "title": "第二节 图数据建模与Neo4j集成",
+    "file": "02 RAG 专项教程/09 项目实战：优化版/02 第二节 图数据建模与Neo4j集成.md"
+  },
+  {
+    "book": "02",
+    "group": "09 项目实战：优化版",
+    "title": "第三节 Milvus索引构建",
+    "file": "02 RAG 专项教程/09 项目实战：优化版/03 第三节 Milvus索引构建.md"
+  },
+  {
+    "book": "02",
+    "group": "09 项目实战：优化版",
+    "title": "第四节 智能查询路由与检索策略",
+    "file": "02 RAG 专项教程/09 项目实战：优化版/04 第四节 智能查询路由与检索策略.md"
+  },
+  {
+    "book": "02",
+    "group": "10 拓展阅读",
+    "title": "多模态 Omni Embedding 实践（Jina v5-omni）",
+    "file": "02 RAG 专项教程/10 拓展阅读/01 多模态 Omni Embedding 实践（Jina v5-omni）.md"
+  },
+  {
+    "book": "02",
+    "group": "10 拓展阅读",
+    "title": "Neo4J 简单应用",
+    "file": "02 RAG 专项教程/10 拓展阅读/02 Neo4J 简单应用.md"
+  },
+  {
+    "book": "02",
+    "group": "10 拓展阅读",
+    "title": "PowerRAG 文本问答 Demo · 示例文档",
+    "file": "02 RAG 专项教程/10 拓展阅读/03 PowerRAG 文本问答 Demo · 示例文档.md"
+  },
+  {
+    "book": "02",
+    "group": "10 拓展阅读",
+    "title": "PowerRAG SDK 文本问答检索 Demo",
+    "file": "02 RAG 专项教程/10 拓展阅读/04 PowerRAG SDK 文本问答检索 Demo.md"
+  },
+  {
+    "book": "02",
+    "group": "10 拓展阅读",
+    "title": "README",
+    "file": "02 RAG 专项教程/10 拓展阅读/05 README.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "1-1-大模型认知与工程概览",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/01 1-1-大模型认知与工程概览.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "1-2-提示词工程基础",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/02 1-2-提示词工程基础.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "1-3-RAG、微调、续训与智能体选型",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/03 1-3-RAG、微调、续训与智能体选型.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "2-RAG-搭建企业私有&个人知识库",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/04 2-RAG-搭建企业私有&个人知识库.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "3-基于Coze&Dify平台的智能体开发",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/05 3-基于Coze&Dify平台的智能体开发.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "4-Python调用Dify平台工作流",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/06 4-Python调用Dify平台工作流.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "5-Python调用Coze平台工作流",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/07 5-Python调用Coze平台工作流.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "6-Coze与Dify的Windows平台部署",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/08 6-Coze与Dify的Windows平台部署.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "7-企业级大模型部署",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/09 7-企业级大模型部署.md"
+  },
+  {
+    "book": "03",
+    "group": "01 大模型基础与平台",
+    "title": "8-Docker快速入门与Dify部署排障",
+    "file": "03 Agent 专项教程/01 大模型基础与平台/10 8-Docker快速入门与Dify部署排障.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "9-LangChain概述与架构",
+    "file": "03 Agent 专项教程/02 LangChain 基础/01 9-LangChain概述与架构.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "10-LangChain快速上手与HelloWorld",
+    "file": "03 Agent 专项教程/02 LangChain 基础/02 10-LangChain快速上手与HelloWorld.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "11-Model-I-O与模型接入",
+    "file": "03 Agent 专项教程/02 LangChain 基础/03 11-Model-I-O与模型接入.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "12-Ollama本地部署与调用",
+    "file": "03 Agent 专项教程/02 LangChain 基础/04 12-Ollama本地部署与调用.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "13-提示词与消息模板",
+    "file": "03 Agent 专项教程/02 LangChain 基础/05 13-提示词与消息模板.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "14-输出解析器",
+    "file": "03 Agent 专项教程/02 LangChain 基础/06 14-输出解析器.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "15-LCEL与链式调用",
+    "file": "03 Agent 专项教程/02 LangChain 基础/07 15-LCEL与链式调用.md"
+  },
+  {
+    "book": "03",
+    "group": "02 LangChain 基础",
+    "title": "16-记忆与对话历史（含Redis基础）",
+    "file": "03 Agent 专项教程/02 LangChain 基础/08 16-记忆与对话历史（含Redis基础）.md"
+  },
+  {
+    "book": "03",
+    "group": "03 工具、检索与 Agent",
+    "title": "17-Tools工具调用",
+    "file": "03 Agent 专项教程/03 工具、检索与 Agent/01 17-Tools工具调用.md"
+  },
+  {
+    "book": "03",
+    "group": "03 工具、检索与 Agent",
+    "title": "18-向量数据库与Embedding实战",
+    "file": "03 Agent 专项教程/03 工具、检索与 Agent/02 18-向量数据库与Embedding实战.md"
+  },
+  {
+    "book": "03",
+    "group": "03 工具、检索与 Agent",
+    "title": "19-RAG检索增强生成",
+    "file": "03 Agent 专项教程/03 工具、检索与 Agent/03 19-RAG检索增强生成.md"
+  },
+  {
+    "book": "03",
+    "group": "03 工具、检索与 Agent",
+    "title": "20-MCP模型上下文协议",
+    "file": "03 Agent 专项教程/03 工具、检索与 Agent/04 20-MCP模型上下文协议.md"
+  },
+  {
+    "book": "03",
+    "group": "03 工具、检索与 Agent",
+    "title": "21-Agent智能体",
+    "file": "03 Agent 专项教程/03 工具、检索与 Agent/05 21-Agent智能体.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "22-LangGraph概述与快速入门",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/01 22-LangGraph概述与快速入门.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "23-LangGraphAPI：图与状态",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/02 23-LangGraphAPI：图与状态.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "24-LangGraphAPI：节点、边与进阶",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/03 24-LangGraphAPI：节点、边与进阶.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "25-LangGraph高级特性",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/04 25-LangGraph高级特性.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "26-LangGraph多智能体与A2A",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/05 26-LangGraph多智能体与A2A.md"
+  },
+  {
+    "book": "03",
+    "group": "04 LangGraph 与技能",
+    "title": "27-Skills技能与AI编程工具实践",
+    "file": "03 Agent 专项教程/04 LangGraph 与技能/06 27-Skills技能与AI编程工具实践.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "28-大模型微调概述与整体流程",
+    "file": "03 Agent 专项教程/05 微调与部署/01 28-大模型微调概述与整体流程.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "29-微调数据准备与对话模板",
+    "file": "03 Agent 专项教程/05 微调与部署/02 29-微调数据准备与对话模板.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "30-模型训练原理与高效微调",
+    "file": "03 Agent 专项教程/05 微调与部署/03 30-模型训练原理与高效微调.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "31-LLaMA-Factory环境搭建与微调实战",
+    "file": "03 Agent 专项教程/05 微调与部署/04 31-LLaMA-Factory环境搭建与微调实战.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "32-微调效果评估与模型部署",
+    "file": "03 Agent 专项教程/05 微调与部署/05 32-微调效果评估与模型部署.md"
+  },
+  {
+    "book": "03",
+    "group": "05 微调与部署",
+    "title": "33-微调显存优化与多卡训练",
+    "file": "03 Agent 专项教程/05 微调与部署/06 33-微调显存优化与多卡训练.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "新手入门与常见问题",
+    "file": "03 Agent 专项教程/06 查阅资料/01 新手入门与常见问题.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "教程目录大纲",
+    "file": "03 Agent 专项教程/06 查阅资料/02 教程目录大纲.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "全书术语表",
+    "file": "03 Agent 专项教程/06 查阅资料/03 全书术语表.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "工具导航与参考资料索引",
+    "file": "03 Agent 专项教程/06 查阅资料/04 工具导航与参考资料索引.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "教程案例链接汇总（源码与在线演示）",
+    "file": "03 Agent 专项教程/06 查阅资料/05 教程案例链接汇总（源码与在线演示）.md"
+  },
+  {
+    "book": "03",
+    "group": "06 查阅资料",
+    "title": "教程更新日志",
+    "file": "03 Agent 专项教程/06 查阅资料/06 教程更新日志.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "深度研搜：前言",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/01 深度研搜：前言.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "1 - 深度研搜：DeepAgents 基础与核心概念",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/02 1 - 深度研搜：DeepAgents 基础与核心概念.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "2 - 深度研搜：DeepAgents 快速入门与流式解析",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/03 2 - 深度研搜：DeepAgents 快速入门与流式解析.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "3 - 深度研搜：子智能体进阶与异步执行",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/04 3 - 深度研搜：子智能体进阶与异步执行.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "4 - 深度研搜：接入 LangGraph 与 LangChain",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/05 4 - 深度研搜：接入 LangGraph 与 LangChain.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "5 - 深度研搜：人机协作与中断恢复",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/06 5 - 深度研搜：人机协作与中断恢复.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "6 - 深度研搜：长期记忆与 Backend 存储",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/07 6 - 深度研搜：长期记忆与 Backend 存储.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "7 - 深度研搜：中间件机制与Skills配置",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/08 7 - 深度研搜：中间件机制与Skills配置.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "8 - 深度研搜：项目总览与工程初始化",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/09 8 - 深度研搜：项目总览与工程初始化.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "9 - 深度研搜：基础模块与模型配置",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/10 9 - 深度研搜：基础模块与模型配置.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "10 - 深度研搜：网络搜索子智能体与 Tavily 工具",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/11 10 - 深度研搜：网络搜索子智能体与 Tavily 工具.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "11 - 深度研搜：数据库查询子智能体与 MySQL 工具",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/12 11 - 深度研搜：数据库查询子智能体与 MySQL 工具.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "12 - 深度研搜：RAGFlow 子智能体与知识库准备",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/13 12 - 深度研搜：RAGFlow 子智能体与知识库准备.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "13 - 深度研搜：主智能体搭建与异步执行",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/14 13 - 深度研搜：主智能体搭建与异步执行.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-深度研搜",
+    "title": "14 - 深度研搜：FastAPI 接口与项目闭环",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-深度研搜/15 14 - 深度研搜：FastAPI 接口与项目闭环.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "电商问数：前言",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/01 电商问数：前言.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "1 - 电商问数：项目概述与数仓基础",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/02 1 - 电商问数：项目概述与数仓基础.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "2 - 电商问数：项目整体架构与智能体流程",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/03 2 - 电商问数：项目整体架构与智能体流程.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "3 - 电商问数：开发环境与基础服务准备",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/04 3 - 电商问数：开发环境与基础服务准备.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "4 - 电商问数：项目结构与基础服务配置管理",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/05 4 - 电商问数：项目结构与基础服务配置管理.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "5 - 电商问数：Qdrant 与 ES 快速入门与接入",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/06 5 - 电商问数：Qdrant 与 ES 快速入门与接入.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "6 - 电商问数：MySQL、Embedding 接入与日志管理",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/07 6 - 电商问数：MySQL、Embedding 接入与日志管理.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "7 - 电商问数：元数据知识库总览与构建入口",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/08 7 - 电商问数：元数据知识库总览与构建入口.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "8 - 电商问数：表与字段信息同步到元数据库",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/09 8 - 电商问数：表与字段信息同步到元数据库.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "9 - 电商问数：字段与指标检索能力构建",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/10 9 - 电商问数：字段与指标检索能力构建.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "10 - 电商问数：问数智能体总览与工作流骨架",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/11 10 - 电商问数：问数智能体总览与工作流骨架.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "11 - 电商问数：关键词抽取与多路召回",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/12 11 - 电商问数：关键词抽取与多路召回.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "12 - 电商问数：召回信息合并与上下文构建",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/13 12 - 电商问数：召回信息合并与上下文构建.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "13 - 电商问数：SQL 生成前的信息过滤与补全",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/14 13 - 电商问数：SQL 生成前的信息过滤与补全.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "14 - 电商问数：SQL 生成与执行闭环",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/15 14 - 电商问数：SQL 生成与执行闭环.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "15 - 电商问数：API 接口基础与 FastAPI 入门",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/16 15 - 电商问数：API 接口基础与 FastAPI 入门.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "16 - 电商问数：查询接口实现与依赖组装",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/17 16 - 电商问数：查询接口实现与依赖组装.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/实战项目-电商问数",
+    "title": "17 - 电商问数：前后端联调与日志追踪",
+    "file": "03 Agent 专项教程/07 配套实战/实战项目-电商问数/18 17 - 电商问数：前后端联调与日志追踪.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.1 - Coze 案例：一键生成行业调研 PPT",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/01 3.1 - Coze 案例：一键生成行业调研 PPT.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.2 - Coze 案例：复刻爆款视频",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/02 3.2 - Coze 案例：复刻爆款视频.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.3 - Coze 案例：产品营销海报生成",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/03 3.3 - Coze 案例：产品营销海报生成.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.4 - Dify 案例：一键生成行业调研报告",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/04 3.4 - Dify 案例：一键生成行业调研报告.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.5 - Dify 案例：客户投诉分类助手",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/05 3.5 - Dify 案例：客户投诉分类助手.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.6 - Coze 案例：客服对话记录分析",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/06 3.6 - Coze 案例：客服对话记录分析.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.7 - Dify 案例：客服对话记录分析",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/07 3.7 - Dify 案例：客服对话记录分析.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.8 - Coze 案例：商品评论分析",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/08 3.8 - Coze 案例：商品评论分析.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.9 - Dify 案例：商品评论分析",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/09 3.9 - Dify 案例：商品评论分析.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-1-Coze&Dify工作流智能体",
+    "title": "3.10 - Coze 案例：商品营销卖点提炼",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-1-Coze&Dify工作流智能体/10 3.10 - Coze 案例：商品营销卖点提炼.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-2-LangChain框架",
+    "title": "投机解码（Speculative Decoding）介绍",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-2-LangChain框架/01 投机解码（Speculative Decoding）介绍.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "青禾文档台产品说明",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/01 青禾文档台产品说明.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "提示词与 Adapter：逐条核对记录",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/02 提示词与 Adapter：逐条核对记录.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "examples：项目说明",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/03 examples：项目说明.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "验证样本的参考标注复核",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/04 验证样本的参考标注复核.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "思考模式诊断：12 条预测逐条核对",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/05 思考模式诊断：12 条预测逐条核对.md"
+  },
+  {
+    "book": "03",
+    "group": "07 配套实战/案例与源码-4-微调",
+    "title": "案例与源码-4-微调：项目说明",
+    "file": "03 Agent 专项教程/07 配套实战/案例与源码-4-微调/06 案例与源码-4-微调：项目说明.md"
+  },
+  {
+    "book": "05",
+    "group": "01 综合题库",
+    "title": "AI 智能体与大模型应用开发面试题库",
+    "file": "05 面试练习/01 综合题库/01 AI 智能体与大模型应用开发面试题库.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "Agentic RAG：RAG为什么一步一步长出了Agent能力？",
+    "file": "04 大模型综合参考/01 入门与选型/01 Agentic RAG：RAG为什么一步一步长出了Agent能力？.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "Claude Code 和 Claude.ai 有什么区别？三层架构看懂 AI 编程产品",
+    "file": "04 大模型综合参考/01 入门与选型/02 Claude Code 和 Claude.ai 有什么区别？三层架构看懂 AI 编程产品.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型应用开发到底在做什么：和算法岗区别、日常关注什么、核心模块",
+    "file": "04 大模型综合参考/01 入门与选型/03 大模型应用开发到底在做什么：和算法岗区别、日常关注什么、核心模块.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型应用开发岗、算法岗、C++/Java/Go开发岗到底什么区别？谁替代谁了吗？",
+    "file": "04 大模型综合参考/01 入门与选型/04 大模型应用开发岗、算法岗、C++ Java Go开发岗到底什么区别？谁替代谁了吗？.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/05 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/06 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/07 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/08 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/09 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "本文已迁移",
+    "file": "04 大模型综合参考/01 入门与选型/10 本文已迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "Claude Fable 5被破解了？12万字系统提示词全曝光",
+    "file": "04 大模型综合参考/01 入门与选型/11 Claude Fable 5被破解了？12万字系统提示词全曝光.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "GPT-5.6 Sol Prompt怎么写？别再拿5.5那套“遥控”它",
+    "file": "04 大模型综合参考/01 入门与选型/12 GPT-5.6 Sol Prompt怎么写？别再拿5.5那套“遥控”它.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型到底是怎么训练出来的？预训练、模型参数、SFT微调、RLHF对齐、推理一次讲明白",
+    "file": "04 大模型综合参考/01 入门与选型/13 大模型到底是怎么训练出来的？预训练、模型参数、SFT微调、RLHF对齐、推理一次讲明白.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型关键词全解：从 Prompt 到 Agent 到 MCP，一篇搞懂 13 个核心概念",
+    "file": "04 大模型综合参考/01 入门与选型/14 大模型关键词全解：从 Prompt 到 Agent 到 MCP，一篇搞懂 13 个核心概念.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型学习路线：程序员从零入门到上手项目，该按什么顺序学",
+    "file": "04 大模型综合参考/01 入门与选型/15 大模型学习路线：程序员从零入门到上手项目，该按什么顺序学.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型 API 到底怎么计费？一个汉字几个 token？GLM-5.1、GPT-5.4、Opus 4.7 算给你看",
+    "file": "04 大模型综合参考/01 入门与选型/16 大模型 API 到底怎么计费？一个汉字几个 token？GLM-5.1、GPT-5.4、Opus 4.7 算给你看.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "大模型蒸馏到底是什么？硬蒸、软蒸、蒸馏其他厂商模型，一篇讲明白",
+    "file": "04 大模型综合参考/01 入门与选型/17 大模型蒸馏到底是什么？硬蒸、软蒸、蒸馏其他厂商模型，一篇讲明白.md"
+  },
+  {
+    "book": "04",
+    "group": "01 入门与选型",
+    "title": "用上Claude之后，只发了一句「你好」，为什么消耗了十万 token？一篇讲清你的 token 到底花哪了",
+    "file": "04 大模型综合参考/01 入门与选型/18 用上Claude之后，只发了一句「你好」，为什么消耗了十万 token？一篇讲清你的 token 到底花哪了.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Agent怎么评估？任务完成率与可靠性度量",
+    "file": "04 大模型综合参考/02 应用开发/01 Agent怎么评估？任务完成率与可靠性度量.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Agent为什么容易翻车？",
+    "file": "04 大模型综合参考/02 应用开发/02 Agent为什么容易翻车？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Agent到底是什么？和普通大模型问答有什么区别？",
+    "file": "04 大模型综合参考/02 应用开发/03 Agent到底是什么？和普通大模型问答有什么区别？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "AI Agent 学习路线：程序员怎么从零学 Agent 开发，该按什么顺序学",
+    "file": "04 大模型综合参考/02 应用开发/04 AI Agent 学习路线：程序员怎么从零学 Agent 开发，该按什么顺序学.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Agent的记忆：短期、长期、RAG到底什么关系？",
+    "file": "04 大模型综合参考/02 应用开发/05 Agent的记忆：短期、长期、RAG到底什么关系？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "工具设计决定 Agent 上限",
+    "file": "04 大模型综合参考/02 应用开发/06 工具设计决定 Agent 上限.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Agent vs Workflow：什么时候根本不需要 Agent？",
+    "file": "04 大模型综合参考/02 应用开发/07 Agent vs Workflow：什么时候根本不需要 Agent？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Browser Agent怎么读取大型网页",
+    "file": "04 大模型综合参考/02 应用开发/08 Browser Agent怎么读取大型网页.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "RAG 完整链路拆解：离线阶段和在线阶段到底做了什么",
+    "file": "04 大模型综合参考/02 应用开发/09 RAG 完整链路拆解：离线阶段和在线阶段到底做了什么.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "上下文窗口有多大？Context Engineering入门",
+    "file": "04 大模型综合参考/02 应用开发/10 上下文窗口有多大？Context Engineering入门.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "云API、托管推理还是自部署？大模型部署方案怎么选",
+    "file": "04 大模型综合参考/02 应用开发/11 云API、托管推理还是自部署？大模型部署方案怎么选.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Embedding 是什么：语义压缩、模型选型、和 Rerank 的区别",
+    "file": "04 大模型综合参考/02 应用开发/12 Embedding 是什么：语义压缩、模型选型、和 Rerank 的区别.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "面试官怎么问微调？应用开发者该怎么答",
+    "file": "04 大模型综合参考/02 应用开发/13 面试官怎么问微调？应用开发者该怎么答.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "SFT、RLHF、DPO：微调方法全景认知",
+    "file": "04 大模型综合参考/02 应用开发/14 SFT、RLHF、DPO：微调方法全景认知.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "什么时候微调、什么时候RAG？选型决策框架",
+    "file": "04 大模型综合参考/02 应用开发/15 什么时候微调、什么时候RAG？选型决策框架.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Function Calling详解：大模型怎么调用工具，为什么是Agent的基础",
+    "file": "04 大模型综合参考/02 应用开发/16 Function Calling详解：大模型怎么调用工具，为什么是Agent的基础.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "RAG 切片策略：固定长度、递归字符、语义切分、结构感知四种方式对比",
+    "file": "04 大模型综合参考/02 应用开发/17 RAG 切片策略：固定长度、递归字符、语义切分、结构感知四种方式对比.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "KV Cache为什么会吃光显存？从PagedAttention到Prefix Cache",
+    "file": "04 大模型综合参考/02 应用开发/18 KV Cache为什么会吃光显存？从PagedAttention到Prefix Cache.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "长文档与代码怎么检索？固定切片为什么不够",
+    "file": "04 大模型综合参考/02 应用开发/19 长文档与代码怎么检索？固定切片为什么不够.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "LoRA/QLoRA：为什么低秩微调这么流行",
+    "file": "04 大模型综合参考/02 应用开发/20 LoRA QLoRA：为什么低秩微调这么流行.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "MCP协议：Agent工具调用的新标准",
+    "file": "04 大模型综合参考/02 应用开发/21 MCP协议：Agent工具调用的新标准.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "大模型怎么接入真实应用？从聊天框到业务系统的完整链路",
+    "file": "04 大模型综合参考/02 应用开发/22 大模型怎么接入真实应用？从聊天框到业务系统的完整链路.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "量化不是只看4bit/8bit：权重、激活和KV Cache怎么选",
+    "file": "04 大模型综合参考/02 应用开发/23 量化不是只看4bit 8bit：权重、激活和KV Cache怎么选.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "多Agent上下文、消息和Token怎么治理",
+    "file": "04 大模型综合参考/02 应用开发/24 多Agent上下文、消息和Token怎么治理.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Planner、Worker、Reviewer怎么分工",
+    "file": "04 大模型综合参考/02 应用开发/25 Planner、Worker、Reviewer怎么分工.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Plan-and-Execute怎么落地成DAG执行器",
+    "file": "04 大模型综合参考/02 应用开发/26 Plan-and-Execute怎么落地成DAG执行器.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Prompt Engineering不是\"写提示词\"：结构化Prompt设计、System/User/Assistant角色与模板变量",
+    "file": "04 大模型综合参考/02 应用开发/27 Prompt Engineering不是 写提示词 ：结构化Prompt设计、System User Assistant角色与模板.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Few-shot、CoT与自我反思有什么区别？",
+    "file": "04 大模型综合参考/02 应用开发/28 Few-shot、CoT与自我反思有什么区别？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "RAG怎么评估?检索质量和生成质量的度量",
+    "file": "04 大模型综合参考/02 应用开发/29 RAG怎么评估 检索质量和生成质量的度量.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "面试官怎么问RAG？高频问题与回答框架",
+    "file": "04 大模型综合参考/02 应用开发/30 面试官怎么问RAG？高频问题与回答框架.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "RAG 优化思路：Query 改写、混合检索、Rerank、父子块检索、Context 压缩",
+    "file": "04 大模型综合参考/02 应用开发/31 RAG 优化思路：Query 改写、混合检索、Rerank、父子块检索、Context 压缩.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "RAG 系统答不准的常见问题：检索侧五类、生成侧四类问题逐一排查",
+    "file": "04 大模型综合参考/02 应用开发/32 RAG 系统答不准的常见问题：检索侧五类、生成侧四类问题逐一排查.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "ReAct、Reflection、规划执行：Agent三种常见思路怎么选？",
+    "file": "04 大模型综合参考/02 应用开发/33 ReAct、Reflection、规划执行：Agent三种常见思路怎么选？.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "大模型同步、异步、流式输出怎么选？三种调用方式详解",
+    "file": "04 大模型综合参考/02 应用开发/34 大模型同步、异步、流式输出怎么选？三种调用方式详解.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "大模型服务怎么压测？吞吐最高不等于能上线",
+    "file": "04 大模型综合参考/02 应用开发/35 大模型服务怎么压测？吞吐最高不等于能上线.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "大模型结构化输出：为什么自然语言不稳定，JSON Schema怎么约束",
+    "file": "04 大模型综合参考/02 应用开发/36 大模型结构化输出：为什么自然语言不稳定，JSON Schema怎么约束.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "Token、成本与延迟：大模型应用的三个硬约束",
+    "file": "04 大模型综合参考/02 应用开发/37 Token、成本与延迟：大模型应用的三个硬约束.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "向量数据库解决了什么问题：为什么不能用 MySQL 做向量检索、ANN 索引原理",
+    "file": "04 大模型综合参考/02 应用开发/38 向量数据库解决了什么问题：为什么不能用 MySQL 做向量检索、ANN 索引原理.md"
+  },
+  {
+    "book": "04",
+    "group": "02 应用开发",
+    "title": "为什么有了大模型还需要RAG？幻觉、私有知识、时效性四大问题",
+    "file": "04 大模型综合参考/02 应用开发/39 为什么有了大模型还需要RAG？幻觉、私有知识、时效性四大问题.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕Attention：不依赖框架从零实现注意力机制",
+    "file": "04 大模型综合参考/03 Transformer 原理/01 手撕Attention：不依赖框架从零实现注意力机制.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "残差连接、LayerNorm、FFN：Transformer里缺一不可的配角组件",
+    "file": "04 大模型综合参考/03 Transformer 原理/02 残差连接、LayerNorm、FFN：Transformer里缺一不可的配角组件.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕FFN：Transformer前馈网络代码实现",
+    "file": "04 大模型综合参考/03 Transformer 原理/03 手撕FFN：Transformer前馈网络代码实现.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕LayerNorm与残差连接：别让基础组件被忽略",
+    "file": "04 大模型综合参考/03 Transformer 原理/04 手撕LayerNorm与残差连接：别让基础组件被忽略.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "Multi-Head Attention详解：为什么一个头不够，多头怎么拆分和拼接",
+    "file": "04 大模型综合参考/03 Transformer 原理/05 Multi-Head Attention详解：为什么一个头不够，多头怎么拆分和拼接.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕Multi-Head Attention：从单头扩展到多头",
+    "file": "04 大模型综合参考/03 Transformer 原理/06 手撕Multi-Head Attention：从单头扩展到多头.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "位置编码详解：Transformer为什么必须知道Token顺序，正弦编码原理",
+    "file": "04 大模型综合参考/03 Transformer 原理/07 位置编码详解：Transformer为什么必须知道Token顺序，正弦编码原理.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "Attention机制详解：Q、K、V是什么，为什么它是Transformer的核心",
+    "file": "04 大模型综合参考/03 Transformer 原理/08 Attention机制详解：Q、K、V是什么，为什么它是Transformer的核心.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "Attention计算全过程：从QK转置到Softmax加权求和一步步拆解",
+    "file": "04 大模型综合参考/03 Transformer 原理/09 Attention计算全过程：从QK转置到Softmax加权求和一步步拆解.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕Tiny Transformer：从零拼出一个完整模型",
+    "file": "04 大模型综合参考/03 Transformer 原理/10 手撕Tiny Transformer：从零拼出一个完整模型.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "为什么所有大模型都绕不开 Transformer？",
+    "file": "04 大模型综合参考/03 Transformer 原理/11 为什么所有大模型都绕不开 Transformer？.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "Encoder-only、Decoder-only、Encoder-Decoder三种架构详解与对比",
+    "file": "04 大模型综合参考/03 Transformer 原理/12 Encoder-only、Decoder-only、Encoder-Decoder三种架构详解与对比.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "手撕Transformer Block：把Attention、FFN、Norm拼起来",
+    "file": "04 大模型综合参考/03 Transformer 原理/13 手撕Transformer Block：把Attention、FFN、Norm拼起来.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "Transformer数据流动全解析：从输入文本到输出Token每一步做什么",
+    "file": "04 大模型综合参考/03 Transformer 原理/14 Transformer数据流动全解析：从输入文本到输出Token每一步做什么.md"
+  },
+  {
+    "book": "04",
+    "group": "03 Transformer 原理",
+    "title": "一层Transformer Block长什么样？自注意力、FFN、残差、LayerNorm拼起来",
+    "file": "04 大模型综合参考/03 Transformer 原理/15 一层Transformer Block长什么样？自注意力、FFN、残差、LayerNorm拼起来.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "为什么Agent时代大家都在做CLI？Claude Code、Codex与命令行的前世今生",
+    "file": "04 大模型综合参考/04 AI 编程实践/01 为什么Agent时代大家都在做CLI？Claude Code、Codex与命令行的前世今生.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "百万行代码两周迁完：Anthropic如何用Claude Code做大规模代码迁移",
+    "file": "04 大模型综合参考/04 AI 编程实践/02 百万行代码两周迁完：Anthropic如何用Claude Code做大规模代码迁移.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "40万次Claude Code会话揭示：真正拉开差距的，不是Prompt",
+    "file": "04 大模型综合参考/04 AI 编程实践/03 40万次Claude Code会话揭示：真正拉开差距的，不是Prompt.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code 高效使用指南：别把它当聊天框，5 件事把它调教成一个会自己干活的团队",
+    "file": "04 大模型综合参考/04 AI 编程实践/04 Claude Code 高效使用指南：别把它当聊天框，5 件事把它调教成一个会自己干活的团队.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "深入理解 Claude Code：从 CLAUDE.md 到 Hooks、Skills、Subagents",
+    "file": "04 大模型综合参考/04 AI 编程实践/05 深入理解 Claude Code：从 CLAUDE.md 到 Hooks、Skills、Subagents.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code怎么读懂大代码库？Agent搜索、CLAUDE.md、Hooks、Skills、MCP和LSP一篇讲明白",
+    "file": "04 大模型综合参考/04 AI 编程实践/06 Claude Code怎么读懂大代码库？Agent搜索、CLAUDE.md、Hooks、Skills、MCP和LSP一篇讲明白.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code作者说“不写Prompt，写Loop”：AI编程从提示词到Agent闭环到底变了什么",
+    "file": "04 大模型综合参考/04 AI 编程实践/07 Claude Code作者说“不写Prompt，写Loop”：AI编程从提示词到Agent闭环到底变了什么.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code完整使用指南：CLAUDE.md、Skills、Subagents、MCP、Hooks、Plugins怎么用",
+    "file": "04 大模型综合参考/04 AI 编程实践/08 Claude Code完整使用指南：CLAUDE.md、Skills、Subagents、MCP、Hooks、Plugins怎么用.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "CLAUDE.md到底怎么写？Claude Code项目记忆、团队规范和上下文管理一篇讲明白",
+    "file": "04 大模型综合参考/04 AI 编程实践/09 CLAUDE.md到底怎么写？Claude Code项目记忆、团队规范和上下文管理一篇讲明白.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code 为什么快？Prompt Cache、Plan Mode、MCP工具加载和上下文压缩一篇讲明白",
+    "file": "04 大模型综合参考/04 AI 编程实践/10 Claude Code 为什么快？Prompt Cache、Plan Mode、MCP工具加载和上下文压缩一篇讲明白.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Skills实战：Anthropic用了几百个Skill，总结出9大分类和写好Skill的全部经验",
+    "file": "04 大模型综合参考/04 AI 编程实践/11 Claude Skills实战：Anthropic用了几百个Skill，总结出9大分类和写好Skill的全部经验.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Code 动态工作流详解：让 Claude 自己现写一套 harness，把一个任务拆给一队 Claude 去干",
+    "file": "04 大模型综合参考/04 AI 编程实践/12 Claude Code 动态工作流详解：让 Claude 自己现写一套 harness，把一个任务拆给一队 Claude 去干.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Loop Engineering 实战：14 步路线图，从判断要不要做到上线后守住",
+    "file": "04 大模型综合参考/04 AI 编程实践/13 Loop Engineering 实战：14 步路线图，从判断要不要做到上线后守住.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "Claude Managed Agents详解：把Agent的「大脑」和「双手」拆开，从原型到上线只要几天",
+    "file": "04 大模型综合参考/04 AI 编程实践/14 Claude Managed Agents详解：把Agent的「大脑」和「双手」拆开，从原型到上线只要几天.md"
+  },
+  {
+    "book": "04",
+    "group": "04 AI 编程实践",
+    "title": "claude：内容目录",
+    "file": "04 大模型综合参考/04 AI 编程实践/15 claude：内容目录.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "ChatGPT、Claude、Grok同时宕机：重叠93分钟，但“同一个元凶”没有证据",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/01 ChatGPT、Claude、Grok同时宕机：重叠93分钟，但“同一个元凶”没有证据.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "ChatGPT暂停20X订阅：不是封号，是最贵套餐暂时不卖了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/02 ChatGPT暂停20X订阅：不是封号，是最贵套餐暂时不卖了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude说永久+25%，Codex给你重置额度：两家公司终于开始解释“额度去哪了”",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/03 Claude说永久+25%，Codex给你重置额度：两家公司终于开始解释“额度去哪了”.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude大规模封号：Claude账号被封后，我又被迫切回中转站",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/04 Claude大规模封号：Claude账号被封后，我又被迫切回中转站.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Fable 5.1发布：缓存价降75%，Anthropic这次终于开始管账单了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/05 Claude Fable 5.1发布：缓存价降75%，Anthropic这次终于开始管账单了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "终于又能用Fable 5了，我体验了一下，发现用不起",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/06 终于又能用Fable 5了，我体验了一下，发现用不起.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Fable 5发布：最强模型来了，但先别急着把Opus 4.8换掉",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/07 Claude Fable 5发布：最强模型来了，但先别急着把Opus 4.8换掉.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude开始给文字打“暗号”：复制粘贴也会跟着走",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/08 Claude开始给文字打“暗号”：复制粘贴也会跟着走.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Opus 4.7 发布：编码能力暴涨、3倍高清视觉、新增xhigh档位，全面拆解",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/09 Claude Opus 4.7 发布：编码能力暴涨、3倍高清视觉、新增xhigh档位，全面拆解.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Opus 4.8发布：别被跑分带节奏，真正值得看的是Claude Code工作流",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/10 Claude Opus 4.8发布：别被跑分带节奏，真正值得看的是Claude Code工作流.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Opus 5发布：不是Fable 5平替，是Claude Code的日常主力",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/11 Claude Opus 5发布：不是Fable 5平替，是Claude Code的日常主力.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Claude Code为什么针对中国IP大规模封号？",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/12 Claude Code为什么针对中国IP大规模封号？.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Codex 这次发布的 Record & Replay，把“写 prompt”变成了“录一遍”",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/13 Codex 这次发布的 Record & Replay，把“写 prompt”变成了“录一遍”.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "长鑫科技上市暴涨466%：存储芯片为什么不是有钱就能造",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/14 长鑫科技上市暴涨466%：存储芯片为什么不是有钱就能造.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek大举招人，Agent Harness工程师火了：普通程序员怎么学Harness",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/15 DeepSeek大举招人，Agent Harness工程师火了：普通程序员怎么学Harness.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek官方Harness怎么用：从安装到让它真正改完一个项目",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/16 DeepSeek官方Harness怎么用：从安装到让它真正改完一个项目.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek V4-Flash正式版上线：Agent跑分82.7，能替代Codex主力模型吗？",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/17 DeepSeek V4-Flash正式版上线：Agent跑分82.7，能替代Codex主力模型吗？.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek终于能看图了：复杂截图、图表、ASCII和SVG实测",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/18 DeepSeek终于能看图了：复杂截图、图表、ASCII和SVG实测.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek V4全系列正式版上线：Flash、Pro新定价，API最高涨12倍",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/19 DeepSeek V4全系列正式版上线：Flash、Pro新定价，API最高涨12倍.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek V4降价75%：我接上Claude Code跑了几天，说说真实感受",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/20 DeepSeek V4降价75%：我接上Claude Code跑了几天，说说真实感受.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek V4-Pro永久降价75%：5月22日悄悄改了API定价页，这不是特惠了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/21 DeepSeek V4-Pro永久降价75%：5月22日悄悄改了API定价页，这不是特惠了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "DeepSeek V4发布：1.6万亿参数开源MoE，百万上下文，价格只要GPT-5.5的十分之一",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/22 DeepSeek V4发布：1.6万亿参数开源MoE，百万上下文，价格只要GPT-5.5的十分之一.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GLM-5.2发布：智谱这次不放跑分表，先让你用上，开源、1M上下文、华为昇腾训练",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/23 GLM-5.2发布：智谱这次不放跑分表，先让你用上，开源、1M上下文、华为昇腾训练.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GLM-5.3-Flash 发布：价格砍到十分之一，这次还把“眼睛”补上了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/24 GLM-5.3-Flash 发布：价格砍到十分之一，这次还把“眼睛”补上了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GLM-5.3 发布：基座没变，编程涨 50%，安全能力却意外爆发",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/25 GLM-5.3 发布：基座没变，编程涨 50%，安全能力却意外爆发.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GPT-5.5发布：OpenAI最强Agent编程模型，稳定自主运行7小时，价格翻倍值不值？",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/26 GPT-5.5发布：OpenAI最强Agent编程模型，稳定自主运行7小时，价格翻倍值不值？.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "恭喜，还没学过Superpowers的录友：现在不用学了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/27 恭喜，还没学过Superpowers的录友：现在不用学了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GPT-5.6突然全面开放：Codex并入ChatGPT，AI开始自己组队干活了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/28 GPT-5.6突然全面开放：Codex并入ChatGPT，AI开始自己组队干活了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "彻底杀疯了！分享9个让人惊艳的GPT-6 Astra案例",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/29 彻底杀疯了！分享9个让人惊艳的GPT-6 Astra案例.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GPT-6 Astra发布：跑分几乎刷满，但我更在意它开始接管鼠标了",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/30 GPT-6 Astra发布：跑分几乎刷满，但我更在意它开始接管鼠标了.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "GPT-6 Pro终于开始推送：100美元、200美元Pro用户先上车",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/31 GPT-6 Pro终于开始推送：100美元、200美元Pro用户先上车.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "混元Hy4 preview发布：770B开源、1M上下文，腾讯这次先把模型塞进真实工作流",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/32 混元Hy4 preview发布：770B开源、1M上下文，腾讯这次先把模型塞进真实工作流.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Kimi K2.7-Code 发布并开源：主打的不是\"更聪明\"，是\"少想废话\"",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/33 Kimi K2.7-Code 发布并开源：主打的不是 更聪明 ，是 少想废话.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "Kimi K3 发布：2.8 万亿参数只是前菜，前端审美才是最狠的",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/34 Kimi K3 发布：2.8 万亿参数只是前菜，前端审美才是最狠的.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "MiniMax M3评测：SWE-Bench Pro 59.0，1M上下文，原生多模态，真能替代Claude Code吗？",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/35 MiniMax M3评测：SWE-Bench Pro 59.0，1M上下文，原生多模态，真能替代Claude Code吗？.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "OpenAI突然终止与Cursor合作，AI编程用户怎么办",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/36 OpenAI突然终止与Cursor合作，AI编程用户怎么办.md"
+  },
+  {
+    "book": "04",
+    "group": "05 动态与延伸阅读",
+    "title": "我就上线个上传头像功能，",
+    "file": "04 大模型综合参考/05 动态与延伸阅读/37 我就上线个上传头像功能，.md"
+  },
+  {
+    "book": "04",
+    "group": "06 学习路线",
+    "title": "Agent 专项路线",
+    "file": "04 大模型综合参考/06 学习路线/01 Agent 专项路线.md"
+  },
+  {
+    "book": "04",
+    "group": "06 学习路线",
+    "title": "大模型应用开发路线",
+    "file": "04 大模型综合参考/06 学习路线/02 大模型应用开发路线.md"
+  },
+  {
+    "book": "04",
+    "group": "06 学习路线",
+    "title": "开发者入门路线",
+    "file": "04 大模型综合参考/06 学习路线/03 开发者入门路线.md"
+  },
+  {
+    "book": "04",
+    "group": "06 学习路线",
+    "title": "大模型求职与面试路线",
+    "file": "04 大模型综合参考/06 学习路线/04 大模型求职与面试路线.md"
+  },
+  {
+    "book": "04",
+    "group": "06 学习路线",
+    "title": "大模型应用开发完整学习路线",
+    "file": "04 大模型综合参考/06 学习路线/05 大模型应用开发完整学习路线.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "Agent 专题",
+    "file": "04 大模型综合参考/07 专题索引/01 Agent 专题.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "AI 编程专题",
+    "file": "04 大模型综合参考/07 专题索引/02 AI 编程专题.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "部署与性能专题",
+    "file": "04 大模型综合参考/07 专题索引/03 部署与性能专题.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "微调专题",
+    "file": "04 大模型综合参考/07 专题索引/04 微调专题.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "RAG 专题",
+    "file": "04 大模型综合参考/07 专题索引/05 RAG 专题.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "专题索引",
+    "file": "04 大模型综合参考/07 专题索引/06 专题索引.md"
+  },
+  {
+    "book": "04",
+    "group": "07 专题索引",
+    "title": "Transformer 专题",
+    "file": "04 大模型综合参考/07 专题索引/07 Transformer 专题.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "字节跳动Agent开发四面面经：21道大模型面试题全解析，从Prompt到Agent到MCP",
+    "file": "05 面试练习/02 大模型专题面试/01 字节跳动Agent开发四面面经：21道大模型面试题全解析，从Prompt到Agent到MCP.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent上下文漂移与工具调用幻觉：深度拆解与面试回答思路",
+    "file": "05 面试练习/02 大模型专题面试/02 Agent上下文漂移与工具调用幻觉：深度拆解与面试回答思路.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "OpenClaw、Hermes Agent、Claude Code三框架横评：面试必懂的对比",
+    "file": "05 面试练习/02 大模型专题面试/03 OpenClaw、Hermes Agent、Claude Code三框架横评：面试必懂的对比.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent系统如何约束大模型幻觉？约束后还幻觉怎么办？",
+    "file": "05 面试练习/02 大模型专题面试/04 Agent系统如何约束大模型幻觉？约束后还幻觉怎么办？.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent Harness 可观测性：生产级 AI 项目必须补上的一课",
+    "file": "05 面试练习/02 大模型专题面试/05 Agent Harness 可观测性：生产级 AI 项目必须补上的一课.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent混合路由优化：从\"一刀切\"到\"看菜下碟\"",
+    "file": "05 面试练习/02 大模型专题面试/06 Agent混合路由优化：从 一刀切 到 看菜下碟.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent大厂面试题汇总：ReAct、Function Calling、MCP、RAG高频问题",
+    "file": "05 面试练习/02 大模型专题面试/07 Agent大厂面试题汇总：ReAct、Function Calling、MCP、RAG高频问题.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Agent Skill 面试怎么答？如何写出高质量 Skill，真正提升 Agent 能力？",
+    "file": "05 面试练习/02 大模型专题面试/08 Agent Skill 面试怎么答？如何写出高质量 Skill，真正提升 Agent 能力？.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "AI增强开发三件套：OpenSpec、Superpowers、gstack怎么把 Vibe Coding 拉回工程交付",
+    "file": "05 面试练习/02 大模型专题面试/09 AI增强开发三件套：OpenSpec、Superpowers、gstack怎么把 Vibe Coding 拉回工程交付.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "字节Agent应用开发实习一面：项目被连续深挖，应该怎么答？",
+    "file": "05 面试练习/02 大模型专题面试/10 字节Agent应用开发实习一面：项目被连续深挖，应该怎么答？.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Claude Code上下文窗口面试详解：Auto-Compact、上下文压缩与Agent记忆管理",
+    "file": "05 面试练习/02 大模型专题面试/11 Claude Code上下文窗口面试详解：Auto-Compact、上下文压缩与Agent记忆管理.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Claude Code大厂面试题汇总：源码泄露、Agent Loop、系统提示词全拆解|深度解析Claude Code工作原理",
+    "file": "05 面试练习/02 大模型专题面试/12 Claude Code大厂面试题汇总：源码泄露、Agent Loop、系统提示词全拆解 深度解析Claude Code工作原理.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Claude Code为什么不用RAG检索代码？Grep、Glob、Read与代码检索设计哲学",
+    "file": "05 面试练习/02 大模型专题面试/13 Claude Code为什么不用RAG检索代码？Grep、Glob、Read与代码检索设计哲学.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "大模型微调面试怎么答？SFT、RLHF、DPO、PPO 到底还有没有必要？",
+    "file": "05 面试练习/02 大模型专题面试/14 大模型微调面试怎么答？SFT、RLHF、DPO、PPO 到底还有没有必要？.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Graph Engineering详解：Loop还没学完，Graph又来了，Agent图编排到底是什么",
+    "file": "05 面试练习/02 大模型专题面试/15 Graph Engineering详解：Loop还没学完，Graph又来了，Agent图编排到底是什么.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "GraphRAG与LightRAG大厂面试题汇总：从RAG到知识图谱检索",
+    "file": "05 面试练习/02 大模型专题面试/16 GraphRAG与LightRAG大厂面试题汇总：从RAG到知识图谱检索.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Harness Engineering大厂面试题汇总：从Prompt到Context到Harness",
+    "file": "05 面试练习/02 大模型专题面试/17 Harness Engineering大厂面试题汇总：从Prompt到Context到Harness.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Loop详解：从ReAct到Loop Engineering，Agent到底在循环什么",
+    "file": "05 面试练习/02 大模型专题面试/18 Loop详解：从ReAct到Loop Engineering，Agent到底在循环什么.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "多Agent架构面试全解析：通信、编排、Tool取舍与工程代价",
+    "file": "05 面试练习/02 大模型专题面试/19 多Agent架构面试全解析：通信、编排、Tool取舍与工程代价.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "未来的竞争，不是\"谁的 Agent 更多\"，而是\"谁的 Harness 更稳\"",
+    "file": "05 面试练习/02 大模型专题面试/20 未来的竞争，不是 谁的 Agent 更多 ，而是 谁的 Harness 更稳.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "生产级Agent全景面试详解：系统架构、Harness工程、组织协作与人才能力",
+    "file": "05 面试练习/02 大模型专题面试/21 生产级Agent全景面试详解：系统架构、Harness工程、组织协作与人才能力.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "RAG落地最难的地方在哪？文档预处理、召回质量、生成忠实度",
+    "file": "05 面试练习/02 大模型专题面试/22 RAG落地最难的地方在哪？文档预处理、召回质量、生成忠实度.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "RAG大厂面试题汇总：向量检索、混合检索、Rerank、幻觉处理高频问题",
+    "file": "05 面试练习/02 大模型专题面试/23 RAG大厂面试题汇总：向量检索、混合检索、Rerank、幻觉处理高频问题.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "大模型面经汇总：Agent、RAG、Transformer、AI编程大厂面试题",
+    "file": "05 面试练习/02 大模型专题面试/24 大模型面经汇总：Agent、RAG、Transformer、AI编程大厂面试题.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Spec-Driven Development规约驱动开发：AI写代码越快，为什么越要先写清楚",
+    "file": "05 面试练习/02 大模型专题面试/25 Spec-Driven Development规约驱动开发：AI写代码越快，为什么越要先写清楚.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Transformer大厂面试题汇总：应用开发者视角",
+    "file": "05 面试练习/02 大模型专题面试/26 Transformer大厂面试题汇总：应用开发者视角.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Vibe Coding避坑指南：Git提交、数据库备份、模块拆分、线上回滚怎么做",
+    "file": "05 面试练习/02 大模型专题面试/27 Vibe Coding避坑指南：Git提交、数据库备份、模块拆分、线上回滚怎么做.md"
+  },
+  {
+    "book": "05",
+    "group": "02 大模型专题面试",
+    "title": "Vibe Coding大厂面试题汇总：AI编程时代你的优势到底在哪",
+    "file": "05 面试练习/02 大模型专题面试/28 Vibe Coding大厂面试题汇总：AI编程时代你的优势到底在哪.md"
+  },
+  {
+    "book": "05",
+    "group": "03 项目表达与简历",
+    "title": "大模型微调项目简历写法",
+    "file": "05 面试练习/03 项目表达与简历/01 大模型微调项目简历写法.md"
+  },
+  {
+    "book": "05",
+    "group": "03 项目表达与简历",
+    "title": "简历专栏",
+    "file": "05 面试练习/03 项目表达与简历/02 简历专栏.md"
+  }
+]

@@ -1,0 +1,26 @@
+/* A full-width history page; the practice DOM and drafts stay mounted. */
+.history-view main>section:not(#historyPage),.history-view .page-footer,.history-view #focusAnswer,.history-view .top-actions{display:none!important}
+.history-page{max-width:1120px;margin:38px auto;padding:0 36px 60px}
+.records-heading{display:flex;justify-content:space-between;align-items:start;gap:24px}
+.records-heading h1{font-size:30px;margin:0 0 12px}.records-heading p{line-height:1.8}
+.records-tools{display:flex;gap:14px;margin:28px 0 14px;align-items:center}
+.records-tools input{flex:1;min-width:0}.records-tools select{width:150px}
+.records-list{border-top:1px solid var(--line)}
+.record-row{display:grid;grid-template-columns:minmax(0,1fr) 100px 170px;gap:24px;align-items:center;border-bottom:1px solid var(--line);padding:24px 0}
+.record-copy h2{margin:0;font-size:17px}.record-title{background:none;text-align:left;padding:0;font:inherit;color:var(--ink);line-height:1.6;overflow-wrap:anywhere}
+.record-title:hover{text-decoration:underline;color:var(--purple)}.record-copy p{color:var(--muted);font-size:12px;margin:10px 0 0}
+.record-state{color:var(--muted);font-size:13px}.record-actions{display:flex;gap:8px;align-items:center;justify-content:flex-end}
+.workspace-v2 .sidebar .history-nav{margin:20px 0;padding:14px 12px;text-align:left;border-radius:8px}
+.history-nav[aria-current=page]{background:var(--lavender);color:var(--purple)}
+.workspace-v2 .sidebar-bottom{margin-top:auto}
+.correct-answer p,.discussion-explanation p,.discussion-question{white-space:pre-wrap;overflow-wrap:anywhere}
+.correct-answer small{color:var(--muted);font-size:12px}.correct-answer p{margin-top:0}
+.feedback-discussion{border-top:1px solid var(--line);padding-top:20px;margin-top:16px}
+.feedback-discussion>summary{cursor:pointer;color:var(--purple);font-weight:600;padding:6px 0}
+.discussion-exchange{padding:10px 0 18px;border-bottom:1px solid var(--line)}
+.discussion-question{background:var(--lavender);padding:14px 18px;border-radius:10px;line-height:1.9}
+.discussion-explanation{padding:8px 0;line-height:1.9}.discussion-explanation>b{color:var(--purple)}
+.discussion-form{margin-top:20px}.discussion-form textarea{resize:vertical;min-height:100px;line-height:1.8}
+.discussion-actions{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:12px}
+.discussion-error{color:#a23441}.records-heading button{flex-shrink:0}
+@media(max-width:800px){.history-page{padding:0 20px 40px;margin-top:24px}.records-heading{gap:12px}.records-heading h1{font-size:24px}.records-tools{flex-wrap:wrap;gap:10px}.records-tools input{flex-basis:100%}.record-row{grid-template-columns:minmax(0,1fr) auto;gap:10px;padding:20px 0}.record-actions{grid-column:1/-1;justify-content:flex-start}.discussion-actions{align-items:flex-start;flex-direction:column}}

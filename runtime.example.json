@@ -1,0 +1,4 @@
+{
+  "python": "C:/path/to/interview-studio/.venv/Scripts/python.exe",
+  "model_path": "models/faster-whisper-large-v3"
+}
